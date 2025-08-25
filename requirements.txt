@@ -1,0 +1,5 @@
+requests
+APScheduler
+python
+pytz
+SQLAlchemy
