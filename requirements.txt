@@ -3,3 +3,4 @@ requests
 APScheduler
 python-dotenv
 pytz
+urllib3>=2.2.0
